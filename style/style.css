@@ -1,0 +1,68 @@
+/*STYLESHEET*/
+	body{
+		background-color: #878787;
+	}
+	p {
+			padding: 5px;
+		}
+	article{			
+			
+			background-color:	#FFFFFF ;
+			font-family:arial, helvetica;
+			font-style:normal;
+			margin-top: 15px;
+			margin-bottom: 15px;
+			margin-left: 0px;
+			float: left;	
+			width: 68.2%	
+		}
+/*SIDE BAR*/
+	aside {
+			float: right;
+			width:31%;
+			height: 120%;
+			background-color: #AD3DCB;
+			margin-top:15px;	
+			padding-bottom: 242px;
+			border-spacing: 0 0;
+
+		}
+		
+
+	header h1 { 
+		
+			font-family: "Comic Sans MS", arial;
+			font-size: 40px;
+				text-align: center;
+			font-style: italic;
+		}
+
+	h3 {
+			text-align: center;
+			font-size: 40px;
+		}
+		h2{
+			font-size:30px;
+		}
+/*HEADER*/		
+		header {
+			background-color: #878787;
+			color: #fff; 
+			padding: 20px 40px; 
+			width: 100%; 
+			box-sizing: border-box;
+		}
+
+/*NAVIGATION BAR*/	
+		nav { 
+			background-color: #AD3DCB; padding: 15px ;}
+		nav a {color: #fff; font-size: 19px; text-decoration: none;}
+		
+		nav ul {list-style-type:none; }
+		nav ul li {display: inline-block; padding: 25px;
+				padding-right: 105px;
+		}
+		form.search {
+			background-color: #000;
+
+		}
